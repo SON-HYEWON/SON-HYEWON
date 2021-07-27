@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hw.son&fontSize=90&animation=twinkling)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=hw.son&fontAlign=80&fontAlignY=40&color=gradient)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
