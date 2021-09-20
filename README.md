@@ -1,6 +1,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=hw.son&fontAlign=50&fontAlignY=40&color=gradient&fontSize=100)
-<h3 align="center">🛠 Tech Stack 🛠</h3>
 
+<div align="center">
+
+[![OOPY Badge](https://img.shields.io/badge/💡_Hyewon__Son-Resume_💡-red?style=flat-square&link=https://hwson.oopy.io/)](https://hwson.oopy.io/)</div>
+
+  
+<h3 align="center">🛠 Tech Stacks 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
