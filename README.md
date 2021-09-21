@@ -29,7 +29,7 @@
 <div align="center">
 
 [![OOPY Badge](https://img.shields.io/badge/💡_Resume_💡-purple?style=flat-square&link=https://hwson.oopy.io/)](https://hwson.oopy.io/)
-<a href="mailto:gpdhsl05001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gpdhsl05001@gmail.com"/></a>
+<a href="mailto:gpsslssl@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gpsslssl@gmail.com"/></a>
 
 </div>
 <br>
