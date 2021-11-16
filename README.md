@@ -28,7 +28,6 @@
 <h3 align="center"> 👉 Contact Me 👈 </h3>
 <div align="center">
 
-[![OOPY Badge](https://img.shields.io/badge/💡_Resume_💡-purple?style=flat-square&link=https://hwson.oopy.io/)](https://hwson.oopy.io/)
 <a href="mailto:gpsslssl@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gpsslssl@gmail.com"/></a>
 
 </div>
